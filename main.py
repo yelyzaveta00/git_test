@@ -9,3 +9,6 @@ def dog():
 
 def kitty():
     print("Hello kitty")
+
+def my_pay():
+    print("pay")
