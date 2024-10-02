@@ -1,5 +1,6 @@
 while True:
     print("Hello")
 
-def friend_bank():
+
+def my_bank():
     print("bank")
